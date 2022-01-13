@@ -125,7 +125,7 @@ def add_entity_references!
   end
 end
 
-# set_model_tables!
-# fix_attribute_references!
-# fix_entity_references!
-# add_entity_references!
+set_model_tables!
+fix_attribute_references!
+fix_entity_references!
+add_entity_references!
